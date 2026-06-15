@@ -58,6 +58,10 @@ Data Analyst 📊 | Software Developer 💻 | BCA Student 🎓
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mofij1122&layout=compact&theme=tokyonight)
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/mofij1122/mofij1122/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -96,6 +100,3 @@ Personal Developer Portfolio
 ⭐ Turning Data into Insights & Ideas into Solutions ⭐
 </p>
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/mofij1122/mofij1122/blob/output/github-contribution-grid-snake.svg)
