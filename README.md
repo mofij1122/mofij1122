@@ -95,3 +95,7 @@ Personal Developer Portfolio
 <p align="center">
 ⭐ Turning Data into Insights & Ideas into Solutions ⭐
 </p>
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/mofij1122/mofij1122/blob/output/github-contribution-grid-snake.svg)
