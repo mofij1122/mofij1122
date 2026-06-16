@@ -12,25 +12,20 @@ Data Analyst 📊 | Software Developer 💻 | BCA Student 🎓
 
 ## 🚀 About Me
 
-🎓 BCA Student
+I'm a passionate **Data Analyst and Software Developer** with experience in data analytics, web development, and problem-solving.
 
-📊 Passionate about Data Analytics
-
-💻 Software Developer
-
-🌱 Currently Learning:
-- Machine Learning
-- Data Science
-- Advanced Python
-- SQL
-
-📈 Completed Data Analytics Internship Projects
+- 📊 Skilled in Data Analysis & Visualization
+- 💻 Building Full-Stack and Web Applications
+- 🐍 Python Developer
+- 📈 Completed Data Analytics Internship Projects
+- 🌱 Currently Learning Machine Learning & Advanced Data Science
+- 🎯 Interested in Data Analytics, Business Intelligence, and Software Development
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -46,11 +41,17 @@ Data Analyst 📊 | Software Developer 💻 | BCA Student 🎓
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=mofij1122&show_icons=true&theme=tokyonight)
 
@@ -58,45 +59,59 @@ Data Analyst 📊 | Software Developer 💻 | BCA Student 🎓
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mofij1122&layout=compact&theme=tokyonight)
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/mofij1122/mofij1122/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=mofij1122&theme=tokyonight)
+🥇 1st Rank – Quiz Competition
+
+🥈 2nd Rank – Web Development Competition
+
+🏅 Best Poster Presentation Award
+
+📊 Successfully Completed Data Analytics Internship Project
 
 ---
 
 ## 📂 Featured Projects
 
-### 📊 Retail Sales EDA
-Exploratory Data Analysis using Python
+### 📊 DataVisionX – Analytics Dashboard
+Interactive data visualization dashboard built for analyzing business insights, trends, KPIs, and decision-making.
 
-### 👥 Customer Segmentation
-K-Means Clustering Analysis
+### 🛒 Retail Sales Data Analysis
+Performed Exploratory Data Analysis (EDA) on retail sales data using Python, Pandas, Matplotlib, and Seaborn to uncover sales trends and customer behavior.
 
-### 🏠 House Price Prediction
-Linear Regression Machine Learning Model
+### 🌐 Club & Committee Management Website
+Flask-based web application for managing college clubs, events, student registrations, and participation requests.
 
-### 🌐 Portfolio Website
-Personal Developer Portfolio
+### 💼 Personal Portfolio Website
+Modern portfolio website built using Next.js, TypeScript, Tailwind CSS, Framer Motion, and EmailJS integration.
+
+---
+
+## 📜 Certifications
+
+📌 Data Analytics Internship Certificate
+
+📌 Python Programming Certification
+
+📌 Web Development Certification
 
 ---
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/mofij-khan-m8983
+🔗 LinkedIn: www.linkedin.com/in/mofij-khan-m8983
+
+💻 GitHub: https://github.com/mofij1122
 
 📧 Email: mofijkhan2005@gmail.com
 
-🌐 Portfolio: 
+🌐 Portfolio: https://mofij-khan-portfolio.vercel.app
 
 ---
 
 <p align="center">
-⭐ Turning Data into Insights & Ideas into Solutions ⭐
+⭐ Turning Data into Insights & Building Software That Creates Impact ⭐
 </p>
 
