@@ -98,6 +98,11 @@ Modern portfolio website built using Next.js, TypeScript, Tailwind CSS, Framer M
 📌 Web Development Certification
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mofij1122/mofij1122/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ## 📫 Connect With Me
 
