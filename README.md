@@ -107,7 +107,7 @@ Modern portfolio website built using Next.js, TypeScript, Tailwind CSS, Framer M
 
 📧 Email: mofijkhan2005@gmail.com
 
-🌐 Portfolio: https://mofij-khan-portfolio.vercel.app
+🌐 Portfolio: https://mofij.vercel.app
 
 ---
 
