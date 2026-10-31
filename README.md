@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mofij Nafis Khan</h1>
+<h1 align="center">Hi 👋, I'm Mofij Khan</h1>
 
 <p align="center">
 Data Analyst 📊 | Software Developer 💻 | BCA Student 🎓
